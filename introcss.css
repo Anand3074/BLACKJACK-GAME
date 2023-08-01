@@ -1,0 +1,38 @@
+	body{
+	height: 500px;
+	width: 900px;
+	background-image: url("intt.jpg!d") ;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+
+
+}
+.incre{	border-radius: 15px;
+		height: 50px;
+		width: 120px;
+	  	background-color: red;
+	  	border: thick;}
+
+.sav{	border-radius: 15px;
+		height: 50px;
+		width: 120px;
+	  	background-color: lightgreen;
+	  	border: thick;
+
+
+
+}
+
+
+h1, h2{
+
+		font-size: 50px ;
+		vertical-align: sub;
+		font-family: "Times New Roman", Times, serif;
+		color: brown;
+
+
+
+
+}	  		

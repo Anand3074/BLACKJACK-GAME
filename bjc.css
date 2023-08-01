@@ -1,0 +1,43 @@
+h1{ font-size: 2cm;
+	color: goldenrod;
+	text-align: center;
+}
+
+.mess{color: white;
+	font-style: italic;
+}
+
+p{	font-size: 1cm;
+	text-align: center;
+	color: white;
+}
+body {text-align: center;
+	font-family: 'trebuchet MS';
+  background-image: url(bj1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+button:hover {background-color: #3e8e41}
+
+button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);}
+
+button{	color: #016f32;
+	background: goldenrod;
+	width: 350px;
+	color: white;
+	height: 70PX;
+	font-size: 1cm;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border: none;
+	border-radius: 2px;
+	align-content: center;
+	border-radius: 20PX;
+	margin: 6px;
+
+}
